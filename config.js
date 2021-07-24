@@ -9,5 +9,6 @@ module.exports = {
         FLICKR_API_KEY: process.env.FLICKR_API_KEY,
         FLICKR_GROUP_ID: process.env.FLICKR_GROUP_ID,
         FLICKR_USER_ID: process.env.FLICKR_USER_ID,
+        PREFIX_MESSAGE: process.env.PREFIX_MESSAGE,
     },
 };
