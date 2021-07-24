@@ -14,7 +14,9 @@
   "author": "Hung M. Nguyen",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "flickr-sdk": "^3.10.0"
   },
   "devDependencies": {
     "eslint": "^7.31.0"
